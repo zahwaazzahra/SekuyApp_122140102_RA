@@ -1,0 +1,74 @@
+{
+  "bikes": [
+    {
+      "id": "1",
+      "title": "Sepeda Gunung XTR",
+      "description": "Dirancang untuk medan terjal dan petualangan luar ruangan.",
+      "price": 55000,
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/04/15/20/04/mountain-bike-3322716_1280.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Sepeda Anak BMX",
+      "description": "Cocok untuk anak-anak yang aktif bermain di luar.",
+      "price": 30000,
+      "thumbnail": "https://prambatanjaya.com/wp-content/uploads/SPD-0031A.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Sepeda Balap Turbo",
+      "description": "Untuk kecepatan tinggi dan performa maksimal.",
+      "price": 70000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.3r6fEM6tFMxNINFzTDzPOwHaE9?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "4",
+      "title": "Sepeda Lipat Mini",
+      "description": "Kompak dan mudah dibawa ke mana-mana.",
+      "price": 40000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.xZ8uVJA1N1M6KRhTwGl03gHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "5",
+      "title": "Sepeda Cruiser Retro",
+      "description": "Desain klasik dengan kenyamanan maksimal.",
+      "price": 45000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.59ZgXp-dmjMbKegyBTZg_QHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "6",
+      "title": "Sepeda Listrik EcoRide",
+      "description": "Hemat energi dan ramah lingkungan.",
+      "price": 80000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.jMLZPPU22z9t-oT-D92E9QHaFj?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7",
+      "title": "Sepeda Touring",
+      "description": "Ideal untuk perjalanan jauh dan touring.",
+      "price": 60000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.yx4JyIyBpl2eHyom7zJV2gHaE3?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "8",
+      "title": "Sepeda Hybrid Sport",
+      "description": "Gabungan kenyamanan dan kecepatan.",
+      "price": 52000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.JYZlgrieFAKjjcWsH9kuCQHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "9",
+      "title": "Sepeda BMX Pro",
+      "description": "Untuk aksi dan atraksi ekstrem.",
+      "price": 45000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.TCU05gf74smN2mL_vCi-1gHaHA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "10",
+      "title": "Sepeda Fixie Urban",
+      "description": "Gaya urban dengan kecepatan tinggi.",
+      "price": 48000,
+      "thumbnail": "https://th.bing.com/th/id/OIP.cIvTYYZLqPXUFz2FZtJl9gHaF3?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
